@@ -2,20 +2,25 @@
 
 Repositorio para entrega de ejercicios de Algoritmos y Estructuras de Datos II
 
-## Especificacion con Pila:
+---
+## Clase 17-03-2026
 
-´´´
+## Ejercicio 1
+
+### Especificacion con Pila:
+
+```
 TDA GarageDeSuperAutos
   InicializarGarage
   EntrarAuto
   SacarAuto
   PrimerAuto
   HayAutos
-´´´
+```
 
-## Implementacion con Pila:
+### Implementacion con Pila:
 
-´´´
+```
 GarageDeSuperAutos:
   Garage<Arreglo>
   primero = primer auto
@@ -37,22 +42,22 @@ GarageDeSuperAutos:
 
   HayAutos: 
     Si existe primero
-´´´
+```
 
 ## Especificacion con Cola:
 
-´´´
+```
 TDA LavaderoDeSuperAutos
   InicializarLavadero
   EntrarAuto
   SacarAuto
   AutoParaLavar
   HayAutosParaLavar
-´´´
+```
 
-## Implementacion con Cola:
+### Implementacion con Cola:
 
-´´´
+```
 LavaderoDeSuperAutos:
   Lavadero<Arreglo>
   primero = primer auto
@@ -74,5 +79,12 @@ LavaderoDeSuperAutos:
 
   HayAutosParaLavar: 
     Si existe primero
-´´´
+```
+
+## Ejercicio 2
+
+Analisis de estrategias.
+
+<img width="602" height="863" alt="image" src="https://github.com/user-attachments/assets/7a9415fd-889a-430c-9ebe-9f00aeb4c0dd" />
+
 
