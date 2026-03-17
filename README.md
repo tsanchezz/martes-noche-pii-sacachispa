@@ -3,7 +3,7 @@
 Repositorio para entrega de ejercicios de Algoritmos y Estructuras de Datos II
 
 ---
-## Clase 17-03-2026
+Clase 17-03-2026
 
 ## Ejercicio 1
 
