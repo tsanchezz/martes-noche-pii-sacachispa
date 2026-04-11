@@ -1,7 +1,7 @@
 import Implementacion.ColaPrioridadDinamica;
 import Interface.ColaPrioridadTDA;
 
-public class Main {
+public class ColaPrioridadDinamicaMain {
     public static void main(String[] args) {
         ColaPrioridadTDA cola = new ColaPrioridadDinamica();
 
