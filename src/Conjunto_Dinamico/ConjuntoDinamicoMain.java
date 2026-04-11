@@ -1,7 +1,7 @@
 import Implementacion.ConjuntoDinamico;
 import Interface.ConjuntoTDA;
 
-public class Main {
+public class ConjuntoDinamicoMain {
     public static void main(String[] args) {
         ConjuntoTDA c = new ConjuntoDinamico();
 

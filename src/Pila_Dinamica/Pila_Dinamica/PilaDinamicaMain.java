@@ -1,7 +1,7 @@
 import Implementacion.PilaDinamica;
 import Interfaces.PilaTDA;
 
-public class Main {
+public class PilaDinamicaMain {
     public static void main(String[] args) {
 
         PilaTDA pila = new PilaDinamica();

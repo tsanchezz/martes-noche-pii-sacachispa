@@ -1,7 +1,7 @@
 import Implementacion.DiccionarioMultipleDinamico;
 import Interface.DiccionarioMultipleTDA;
 
-public class Main {
+public class DiccionarioMultipleDinamicoMain {
     public static void main(String[] args) {
         DiccionarioMultipleTDA d = new DiccionarioMultipleDinamico();
 

@@ -1,7 +1,7 @@
 import Implementacion.ColaDinamica;
 import Interface.ColaTDA;
 
-public class Main {
+public class ColaDinaminaMain {
     public static void main(String[] args) {
         ColaTDA cola = new ColaDinamica();
 
